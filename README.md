@@ -56,3 +56,7 @@ Contributions to the project are welcome! Whether it's bug fixes, feature enhanc
 Support
 If you encounter any issues or have any questions, please feel free to contact us at sandeshpol268@gmail.com
 Thank you for using our Lung Cancer Detection application. Together, we can make a difference in early cancer detection and ultimately save lives.
+![image](https://github.com/Sandesh-Pol/LungsCancerDetection/assets/135794224/0b5ccd82-70d9-4467-bf66-f6194414c23c)
+![image](https://github.com/Sandesh-Pol/LungsCancerDetection/assets/135794224/3b1d3cbd-08d1-4c0b-ac9d-8587fbd5fe33)
+
+
