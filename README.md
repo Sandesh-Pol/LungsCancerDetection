@@ -54,6 +54,5 @@ Contributions
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to open a pull request.
 
 Support
-If you encounter any issues or have any questions, please feel free to contact us at email@example.com.
-
+If you encounter any issues or have any questions, please feel free to contact us at sandeshpol268@gmail.com
 Thank you for using our Lung Cancer Detection application. Together, we can make a difference in early cancer detection and ultimately save lives.
